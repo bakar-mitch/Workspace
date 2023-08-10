@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @bakar-mitch and i'm a software Engineer 
 - 👀 I’m interested in Web Development and Machine Learning 
-- 🌱 I’m currently learning Reactjs.
+- 🌱 I’m a huge React js , Next Js, and Go as a backend language.
 - 💞️ I’m looking to collaborate on web projects, Machine Learning projects among others. 
 - 📫 How to reach me  Tel: +256 704140507 Email: bakarsimba1997@gmail.com
 
