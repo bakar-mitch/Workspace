@@ -1,0 +1,32 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+  <meta charset="UTF-8">
+  <meta name="viewport" content="width=device-width, initial-scale=1.0">
+  <title>Binary Search Visualization</title>
+  <link href="https://cdn.jsdelivr.net/npm/bootstrap@5.3.0/dist/css/bootstrap.min.css" rel="stylesheet">
+  <style>
+    canvas {
+      border: 1px solid black;
+    }
+  </style>
+</head>
+<body>
+  <div class="container mt-5">
+    <h1 class="mb-4">Binary Search Visualization</h1>
+    <div class="mb-3">
+      <label for="target" class="form-label">Target Name:</label>
+      <input type="text" id="target" class="form-control" value="Alice">
+    </div>
+    <button id="searchButton" class="btn btn-primary mb-3">Search</button>
+    <canvas id="canvas" width="800" height="400"></canvas>
+    <div class="card mt-3" id="resultCard" style="display: none;">
+      <div class="card-body">
+        <h5 class="card-title">Search Result</h5>
+        <p class="card-text" id="resultText"></p>
+      </div>
+    </div>
+  </div>
+  <script src="app.js"></script>
+</body>
+</html>
